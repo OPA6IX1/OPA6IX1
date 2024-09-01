@@ -1,5 +1,6 @@
-# 💫 About Me:
-My name is Opakunle Sodiq Oluwaferanmi, a passionate Full Stack Developer with over two years of experience in crafting dynamic and user-friendly web applications. My journey began with a strong foundation in Transport and Logistics Management, where I developed key skills in strategic thinking, problem-solving, and leadership. These skills have seamlessly transitioned into my current role in web development, allowing me to approach projects with a unique perspective and a commitment to delivering high-quality, innovative solutions.<br><br>I specialize in both front-end and back-end development, with expertise in technologies such as HTML, CSS, JavaScript, React, and Node.js. My experience spans a wide range of projects, from responsive web design to API integration and database management. Additionally, I have a strong proficiency in WordPress development, enabling me to create customized, scalable websites that meet specific business objectives.<br><br>Driven by a continuous desire to learn and stay ahead of industry trends, I am always seeking opportunities to expand my knowledge and apply it to real-world challenges. I thrive in collaborative environments and am dedicated to delivering solutions that not only meet but exceed client expectations. Whether working on a small business website or a large-scale application, I bring the same level of enthusiasm, creativity, and attention to detail to every project.<br><br>I am excited about the opportunity to bring my skills and passion for web development to your team and help drive the digital success of your organization.
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
+
+I am Opakunle Sodiq Oluwaferanmi, a highly skilled Full Stack Developer with over two years of experience in crafting innovative and impactful web applications. My unique blend of expertise in both front-end and back-end technologies, including HTML, CSS, JavaScript, React, Node.js, and WordPress, allows me to deliver exceptional digital solutions. With a strong foundation in strategic thinking and problem-solving, honed through my background in Transport and Logistics Management, I am dedicated to creating seamless, user-centric experiences that drive success and set new standards in web development.
 
 
 ## 🌐 Socials:
@@ -11,6 +12,40 @@ My name is Opakunle Sodiq Oluwaferanmi, a passionate Full Stack Developer with o
 ![](https://github-readme-stats.vercel.app/api?username=opa6ix1&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=opa6ix1&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=opa6ix1&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+###.....#
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
+
+<hr/>
+
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=salesp07&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=salesp07&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
+
+<br/><br/>
+
+<hr/>
+
+<br/>
+
+<div align="center">
+<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+</div>
+
+<br/>
+
+##.....#
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=opa6ix1&theme=radical&no-frame=false&no-bg=true&margin-w=4)
