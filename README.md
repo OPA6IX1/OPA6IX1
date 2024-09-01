@@ -1,5 +1,3 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
-
 I am Opakunle Sodiq Oluwaferanmi, a highly skilled Full Stack Developer with over two years of experience in crafting innovative and impactful web applications. My unique blend of expertise in both front-end and back-end technologies, including HTML, CSS, JavaScript, React, Node.js, and WordPress, allows me to deliver exceptional digital solutions. With a strong foundation in strategic thinking and problem-solving, honed through my background in Transport and Logistics Management, I am dedicated to creating seamless, user-centric experiences that drive success and set new standards in web development.
 
 
@@ -13,7 +11,6 @@ I am Opakunle Sodiq Oluwaferanmi, a highly skilled Full Stack Developer with ove
 ![](https://github-readme-streak-stats.herokuapp.com/?user=opa6ix1&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=opa6ix1&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-###.....#
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
@@ -46,10 +43,6 @@ I am Opakunle Sodiq Oluwaferanmi, a highly skilled Full Stack Developer with ove
 <br/>
 
 ##.....#
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=opa6ix1&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=opa6ix1&icon=7&color=1)](https://visitcount.itsvg.in)
 
