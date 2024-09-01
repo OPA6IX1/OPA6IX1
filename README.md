@@ -3,7 +3,7 @@ I am Opakunle Sodiq Oluwaferanmi, a highly skilled Full Stack Developer with ove
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/https://www.behance.net/opakunlesodiq) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Opasix Oluwaferanmi Sodiq ) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@opa6ix_of_lagos) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/opakunle-sodiq) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@opakunle-sodiq) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@@opa6ix52) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@oluwaferanmi94) 
- <a href="[(https://sodiqportfolio.vercel.app/)](https://sodiqportfolio.vercel.app/)" target="_blank">
+ <a href="[(https://sodiqportfolio.vercel.app/)]" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 
