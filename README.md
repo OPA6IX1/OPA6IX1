@@ -3,11 +3,12 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Opakunle+Sodiq;"/>
 
-<h3 align="center">A passionate software developer from Lagos Nig.</h3>
+<h3 align="center">A passionate Software developer from Lagos Nig.</h3>
 
 <br/>
     
-</h1>am highly skilled Full Stack Developer with over two years of experience in crafting innovative and impactful web applications. My unique blend of expertise in both front-end and back-end technologies, including HTML, CSS, JavaScript, React, Node.js, and WordPress, allows me to deliver exceptional digital solutions. With a strong foundation in strategic thinking and problem-solving, honed through my background in Transport and Logistics Management, I am dedicated to creating seamless, user-centric experiences that drive success and set new standards in web development.
+</h1>
+am highly skilled Full Stack Developer with over two years of experience in crafting innovative and impactful web applications. My unique blend of expertise in both front-end and back-end technologies, including HTML, CSS, JavaScript, React, Node.js, and WordPress, allows me to deliver exceptional digital solutions. With a strong foundation in strategic thinking and problem-solving, honed through my background in Transport and Logistics Management, I am dedicated to creating seamless, user-centric experiences that drive success and set new standards in web development.
 
 
 ## 🌐 Socials:
